@@ -39,5 +39,5 @@ LOOP2: POP AX
        LOOP LOOP2
        RET
 HEX2DEC ENDP           
-   
-END START
+.EXIT   
+END
